@@ -1,0 +1,21 @@
+Two-Species Jacobian Analysis
+Species: Deer and BlackBear
+======================================
+
+Model Parameters:
+r_Deer = 0.038220
+r_BlackBear = 0.000000
+a_DeerDeer = -0.001000
+a_DeerBlackBear = -0.001236
+a_BlackBearDeer = 0.010236
+a_BlackBearBlackBear = -0.001000
+
+Equilibrium:
+Deer* = 2.80
+BlackBear* = 28.66
+
+Eigenvalues:
+λ₁ = -0.0157 + 0.0291i
+λ₂ = -0.0157 + -0.0291i
+
+Stability: Stable Spiral (Damped Oscillations)

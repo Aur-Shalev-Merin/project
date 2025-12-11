@@ -1,0 +1,21 @@
+Two-Species Jacobian Analysis
+Species: Wildflowers and Deer
+======================================
+
+Model Parameters:
+r_Wildflowers = 0.001952
+r_Deer = 0.038220
+a_WildflowersWildflowers = -0.001000
+a_WildflowersDeer = 0.031089
+a_DeerWildflowers = -0.000398
+a_DeerDeer = -0.001000
+
+Equilibrium:
+Wildflowers* = 89.00
+Deer* = 2.80
+
+Eigenvalues:
+λ₁ = -0.0459 + 0.0350i
+λ₂ = -0.0459 + -0.0350i
+
+Stability: Stable Spiral (Damped Oscillations)

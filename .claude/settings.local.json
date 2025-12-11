@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(javac:*)",
+      "Bash(java:*)",
+      "Bash(dir:*)",
+      "Bash(compile.bat)",
+      "Bash(python:*)",
+      "Bash(cmd /c compile.bat)",
+      "Bash(if not exist bin mkdir bin)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
