@@ -1,6 +1,8 @@
 # Ignore all .md files
 *.md
 *.txt
+*.png
+*.csv
 
 # Except README files
 !README.md
