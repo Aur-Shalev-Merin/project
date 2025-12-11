@@ -13,7 +13,7 @@ import java.util.Random;
  */
 public class Main {
     // ========== CHANGE THIS TO SWITCH PRESETS ==========
-    private static final EcosystemPreset PRESET = EcosystemPreset.HIGH_BIODIVERSITY;
+    private static final EcosystemPreset PRESET = EcosystemPreset.BEAR_DOMINANCE;
     // ===================================================
 
     /**
